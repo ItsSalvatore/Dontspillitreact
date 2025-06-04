@@ -1,8 +1,3 @@
-Understood. Here is the Markdown for your README.md, including badges for all major frameworks, tools, and technologies used (mirroring the style and icon selection from your screenshot and expanding as appropriate for broad framework visibility):
-
-⸻
-
-
 # DONTSPILLIT
 
 *Reduce waste, maximize freshness, effortlessly manage food.*
@@ -123,10 +118,3 @@ For support or feedback, please open an issue on the GitHub repository.
 Reduce waste. Maximize freshness. Effortlessly manage food.
 
 ---
-
-**Critical suggestions for improvement:**
-- Adjust or remove any badges that are not applicable to your stack to avoid confusion.
-- The "bat" badge is not a common stack element; if you do not use the [bat](https://github.com/sharkdp/bat) tool or similar, consider removing.
-- If you wish to add deployment or CI badges (e.g., GitHub Actions, Vercel, Netlify), specify the details.
-
-If you have additional frameworks/tools, let me know for a further tailored badge section.
