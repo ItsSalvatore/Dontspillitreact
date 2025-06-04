@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "DontSpillIt",
+    "slug": "DontSpillIt",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dontspillit.app"
+    },
+    "android": {
+      "package": "com.dontspillit.app"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
